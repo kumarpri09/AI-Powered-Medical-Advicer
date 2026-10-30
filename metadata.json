@@ -1,0 +1,6 @@
+{
+  "name": "AarogyaAI - Voice & Multimodal Health Advisor",
+  "description": "Multimodal medical advisory chatbot supporting photo, audio, video, and text queries with voice synthesis in English, Hindi, Hinglish, and regional languages.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
